@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Uncategorized &#8211; Local Dev</title>
-	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=93" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=192" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 02 Feb 2024 14:32:44 +0000</lastBuildDate>
